@@ -38,8 +38,8 @@ Sou um desenvolvedor <strong>Full-Stack</strong> apaixonado por criar aplicaçõ
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" alt="Paulo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pgodoi&show_icons=true&theme=radical" alt="Paulo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgodoi&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
@@ -47,7 +47,7 @@ Sou um desenvolvedor <strong>Full-Stack</strong> apaixonado por criar aplicaçõ
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pgodoi&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
