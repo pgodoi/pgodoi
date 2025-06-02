@@ -3,7 +3,8 @@
 <h1 align="center">👋 Olá, eu sou o Paulo | Hi there, I'm Paulo 👋</h1>
 
 <p align="center">
-Sou um desenvolvedor <strong>Full-Stack</strong> apaixonado por criar aplicações escaláveis e de alta performance.
+Sou um desenvolvedor <strong>Full-Stack</strong> apaixonado por criar aplicações escaláveis e de alta performance.<br>
+I'm a <strong>Full-Stack Developer</strong> passionate about building scalable, high-performance applications.
 </p>
 
 <p align="center">
@@ -50,16 +51,6 @@ Sou um desenvolvedor <strong>Full-Stack</strong> apaixonado por criar aplicaçõ
   <img src="https://github-profile-trophy.vercel.app/?username=pgodoi&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
----
-
-## 📫 Contact / Contato
-<!--
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU_PERFIL" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://SEU_PORTFOLIO" target="_blank"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=web&logoColor=white" /></a>
-</p>
--->
 ---
 
 <p align="center">Let's build something amazing together! 🚀</p>
